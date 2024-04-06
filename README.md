@@ -1,6 +1,6 @@
 # Gerardo Solis
-Hi I'm Gerardo Solis, a Computer Science major with a minor in Computer Information Systems and an Associate's degree in Mathematics. 
-I'm am passionate about software engineering, cybersecurity, and game development.
+Hi I'm Gerardo Solis. \
+I am passionate about software engineering, cybersecurity, and game development.
 
 [Website]
 
