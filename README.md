@@ -42,6 +42,7 @@ I am passionate about software engineering, cybersecurity, and game development.
 
 #
 
+### Cybersecurity
 <p align="center">
   <img src="https://www.hackthebox.com/badge/image/859671" alt="HackTheBox"/>
   <br>
