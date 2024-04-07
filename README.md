@@ -40,4 +40,12 @@ I am passionate about software engineering, cybersecurity, and game development.
   </a>
 </p>
 
+#
+
+<p align="center">
+  <img src="https://www.hackthebox.com/badge/image/859671" alt="HackTheBox"/>
+  <br>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/jsoulis.png" alt="TryHackMe" />
+</p>
+
 [website]: https://gsoulis.blog
