@@ -1,13 +1,19 @@
-# Gerardo Solis
-Hi I'm Gerardo Solis. \
-I am passionate about software engineering, cybersecurity, and game development.
+<h1 align="center">Gerardo Solis</h1>
 
-[Website] \
-[LinkedIn]
+<p align="center">
+  Hi I'm Gerardo Solis.
+  <br/>
+  I am passionate about software engineering, cybersecurity, and game development.
+</p>
+<p align="center">
+  <a href="https://gsoulis.blog">Website</a>
+  <br/>
+  <a href="https://www.linkedin.com/in/gerardosolisit/">LinkedIn</a>
+</p>
 
 ---
 
-### Languages and Tools 
+<h2 align="center">Languages and Tools</h2>
 <p align="center">
   <img alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
   <img alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
@@ -30,7 +36,7 @@ I am passionate about software engineering, cybersecurity, and game development.
 
 #
 
-### Stats
+<h2 align="center">Stats</h2>
 <p align="center">
   <a href="https://github.com/Sol-Gerardo">
     <img src="https://github-readme-stats.vercel.app/api?username=Sol-Gerardo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
@@ -43,12 +49,9 @@ I am passionate about software engineering, cybersecurity, and game development.
 
 #
 
-### Cybersecurity
+<h2 align="center">Cybersecurity</h2>
 <p align="center">
   <img src="https://www.hackthebox.com/badge/image/859671" alt="HackTheBox"/>
   <br>
   <img src="https://tryhackme-badges.s3.amazonaws.com/jsoulis.png" alt="TryHackMe" />
 </p>
-
-[website]: https://gsoulis.blog
-[LinkedIn]: https://www.linkedin.com/in/gerardosolisit/
