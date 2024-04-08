@@ -2,7 +2,8 @@
 Hi I'm Gerardo Solis. \
 I am passionate about software engineering, cybersecurity, and game development.
 
-[Website]
+[Website] \
+[LinkedIn]
 
 ---
 
@@ -50,3 +51,4 @@ I am passionate about software engineering, cybersecurity, and game development.
 </p>
 
 [website]: https://gsoulis.blog
+[LinkedIn]: https://www.linkedin.com/in/gerardosolisit/
