@@ -40,12 +40,12 @@
 
 <h2 align="center">Stats</h2>
 <p align="center">
-  <a href="https://github.com/Sol-Gerardo">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sol-Gerardo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <a href="https://github.com/jsouliss">
+    <img src="https://github-readme-stats.vercel.app/api?username=jsouliss&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   </a>
   </br>
-  <a href="https://github.com/Sol-Gerardo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sol-Gerardo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+  <a href="https://github.com/jsouliss">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsouliss&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
   </a>
 </p>
 
