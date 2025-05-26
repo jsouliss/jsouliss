@@ -4,8 +4,6 @@
   Hi I'm Gerardo Solis.
   <br/>
   I am passionate about software engineering, and offensive security.
-  <br/>
-  Improving through each iteration.
 </p>
 <p align="center">
   <a href="https://gsoulis.blog">Website</a>
