@@ -3,7 +3,7 @@
 <p align="center">
   Hi I'm Gerardo Solis.
   <br/>
-  I am passionate about software engineering, cybersecurity, and game development.
+  I am passionate about software engineering, and offensive security.
   <br/>
   Improving through each iteration.
 </p>
