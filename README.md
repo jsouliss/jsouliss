@@ -54,10 +54,6 @@
 <h2 align="center">Cybersecurity</h2>
 <p align="center">
   <img src="https://www.hackthebox.com/badge/image/859671" alt="HackTheBox"/>
-  <br>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/jsoulis.png" alt="TryHackMe" />
-  <br>
-  <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/gsolis5114.png" width="300" />
 </p>
 
 
