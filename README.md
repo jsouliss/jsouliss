@@ -1,14 +1,12 @@
-<h1 align="center">Gerardo Solis</h1>
-
 <p align="center">
   Hi I'm Gerardo Solis.
   <br/>
   I am passionate about software engineering, and offensive security.
 </p>
 <p align="center">
-  <a href="https://gsoulis.blog">Website</a>
-  <br/>
   <a href="https://www.linkedin.com/in/gerardosolisit/">LinkedIn</a>
+  <a>|</a>
+  <a href="https://gsoulis.blog">Website</a> 
 </p>
 
 ---
