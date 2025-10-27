@@ -4,7 +4,7 @@
   I am passionate about software engineering, and offensive security.
 </p>
 <div align="center">
-  <a href="https://www.linkedin.com/in/gerardosolisit/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/gsoulis/">LinkedIn</a>
   <a>|</a>
   <a href="https://gsoulis.blog">Website</a> 
 </div>
