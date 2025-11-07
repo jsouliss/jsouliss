@@ -11,6 +11,10 @@
 
 <br/>
 
+<div align="center" style="margin-left: 1000000px;">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=F70000&background=B8B8B800&center=true&random=true&width=435&lines=Software+Engineer;Red+Team+Operator" alt="Typing SVG" />
+</div>
+
 <div align="center">
   <h2>Languages and Tools</h2>
   <img alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
@@ -62,6 +66,6 @@
 
 <br/>
 
-
+</p>
 
 ![](https://komarev.com/ghpvc/?username=jsouliss)
