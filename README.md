@@ -3,15 +3,15 @@
   <br/>
   I am passionate about software engineering, and offensive security.
 </p>
-<div align="center">
-  <a href="https://www.linkedin.com/in/gsoulis/">LinkedIn</a>
-  <a>|</a>
-  <a href="https://gsoulis.blog">Website</a> 
-</div>
+
+[![Gsoulis Blog](https://img.shields.io/badge/-%23FF0000?style=flat-square&logoColor=%23FFFFFF&logoSize=auto&label=gsoulis.blog&labelColor=555)](https://gsoulis.blog)
+[![LinkedIn](https://img.shields.io/badge/-0077B5?style=flat-square&logo=LinkedIn&logoColor=%23FFFFFF&logoSize=auto&label=LinkedIn&labelColor=555)](https://linkedin.com/in/gsoulis)
+![Profile Viewers](https://komarev.com/ghpvc/?username=jsouliss)
+
 
 <br/>
 
-<div align="center" style="margin-left: 1000000px;">
+<div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=F70000&background=B8B8B800&center=true&random=true&width=435&lines=Software+Engineer;Red+Team+Operator" alt="Typing SVG" />
 </div>
 
@@ -63,9 +63,3 @@
   <h2>Cybersecurity</h2>
   <img src="https://www.hackthebox.com/badge/image/859671" alt="HackTheBox"/>
 </div>
-
-<br/>
-
-</p>
-
-![](https://komarev.com/ghpvc/?username=jsouliss)
