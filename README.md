@@ -53,8 +53,7 @@
 
 <div align="center">
   <h2>Software Engineering</h2>
-  <img src="https://leetcard.jacoblin.cool/gsoulis?theme=catppuccinMocha&font=Molle&ext=heatmap"
- alt="Leetcode"/>
+  <img src="https://leetcard.jacoblin.cool/gsoulis?theme=catppuccinMocha&font=Molle&ext=heatmap" alt="Leetcode"/>
 </div>
 
 <br/>
