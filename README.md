@@ -41,11 +41,11 @@
 <div align="center">
   <h2>Stats</h2>
   <a href="https://github.com/jsouliss">
-    <img src="https://github-readme-stats-soulis.vercel.app/api?username=jsouliss&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&v=2" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsouliss&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
   </a>
   </br>
   <a href="https://github.com/jsouliss">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsouliss&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+    <img src="https://github-readme-stats-delta-coral-28.vercel.app/api?username=jsouliss&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&v=2" />
   </a>
 </div>
 
