@@ -53,16 +53,17 @@
   </a>
 </div>
 
+<!--
 <br/>
-
 <div align="center">
   <h2>Software Engineering</h2>
   <img src="https://leetcard.jacoblin.cool/gsoulis?theme=catppuccinMocha&font=Molle&ext=heatmap" alt="Leetcode"/>
 </div>
+-->
 
 <br/>
 
 <div align="center">
-  <h2>Cybersecurity</h2>
-  <img src="https://www.hackthebox.com/badge/image/859671" alt="HackTheBox"/>
+  <h2>Hack The Box</h2>
+  <img src="https://www.hackthebox.com/badge/image/859671" alt="Hack The Box"/>
 </div>
