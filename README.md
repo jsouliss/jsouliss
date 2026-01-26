@@ -6,7 +6,7 @@
 
 [![Gsoulis Blog](https://img.shields.io/badge/-%23FF0000?style=flat-square&logoColor=%23FFFFFF&logoSize=auto&label=gsoulis.blog&labelColor=555)](https://gsoulis.blog)
 [![LinkedIn](https://img.shields.io/badge/-0077B5?style=flat-square&logo=LinkedIn&logoColor=%23FFFFFF&logoSize=auto&label=LinkedIn&labelColor=555)](https://linkedin.com/in/gsoulis)
-![Profile Viewers](https://komarev.com/ghpvc/?username=jsouliss)
+[![Profile Viewers](https://komarev.com/ghpvc/?username=jsouliss)](https://github.com/jsouliss/)
 
 
 <br/>
