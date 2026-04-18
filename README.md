@@ -1,6 +1,6 @@
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:991b1b,50:dc2626,100:991b1b&height=200&section=header&text=Gerardo%20Solis&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Gerardo Solis" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:991b1b,50:dc2626,100:991b1b&height=200&section=header&text=Jerry%20Solis&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Jerry Solis" />
 </p>
 
 <!-- ANIMATED TAGLINE -->
