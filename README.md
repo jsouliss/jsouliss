@@ -24,7 +24,7 @@
 
 <br/>
 
-## `whoami`
+## `~ ❯ whoami`
 
 ```yaml
 Role:        
