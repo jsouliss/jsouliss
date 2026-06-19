@@ -17,9 +17,11 @@
   <a href="https://gsoulis.blog"><img alt="Blog" src="https://img.shields.io/badge/Blog-gsoulis.blog-000?style=for-the-badge&logo=hashnode&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/gsoulis"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://app.hackthebox.com/public/users/859671"><img alt="Hack The Box" src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"></a>
+ <!-- 
   <a href="https://github.com/jsouliss">
     <img alt="Profile views" src="https://komarev.com/ghpvc/?username=jsouliss&label=Profile%20views&color=dc2626&style=for-the-badge">
   </a>
+  -->
 </p>
 
 <!-- Latest posts can be auto-populated with the blog-post-workflow GitHub Action. -->
