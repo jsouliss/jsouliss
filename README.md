@@ -96,12 +96,14 @@ Currently:
 <p align="center">
   <a href="https://github.com/jsouliss">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-delta-coral-28.vercel.app/api?username=jsouliss&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+      <!--
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-delta-coral-28.vercel.app/api?username=jsouliss&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
       <img height="170" alt="Gerardo's GitHub stats" src="https://github-readme-stats-delta-coral-28.vercel.app/api?username=jsouliss&theme=default&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
     </picture>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jsouliss&theme=tokyonight&hide_border=true" />
       <img height="170" alt="GitHub streak" src="https://streak-stats.demolab.com?user=jsouliss&theme=default&hide_border=true" />
+      -->
     </picture>
   </a>
 </p>
