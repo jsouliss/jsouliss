@@ -96,8 +96,8 @@ Currently:
 <p align="center">
   <a href="https://github.com/jsouliss">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-delta-coral-28.vercel.app/api?username=jsouliss&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-      <img height="170" alt="Jerry's GitHub stats" src="https://github-readme-stats-delta-coral-28.vercel.app/api?username=jsouliss&theme=default&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended-plum.vercel.app/api?username=jsouliss&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+      <img height="170" alt="Jerry's GitHub stats" src="https://github-stats-extended-plum.vercel.app/api?username=jsouliss&theme=default&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
     </picture>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jsouliss&theme=tokyonight&hide_border=true" />
@@ -109,8 +109,8 @@ Currently:
 <p align="center">
   <a href="https://github.com/jsouliss">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-delta-coral-28.vercel.app/api/top-langs/?username=jsouliss&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-      <img alt="Most-used languages" src="https://github-readme-stats-delta-coral-28.vercel.app/api/top-langs/?username=jsouliss&theme=default&hide_border=true&layout=compact&langs_count=8" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended-plum.vercel.app/api/top-langs/?username=jsouliss&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+      <img alt="Most-used languages" src="https://github-stats-extended-plum.vercel.app/api/top-langs/?username=jsouliss&theme=default&hide_border=true&layout=compact&langs_count=8" />
     </picture>
   </a>
 </p>
